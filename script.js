@@ -68,7 +68,7 @@ changeCurrency = () => {
     }
 
 
-    convertValue()
+    
 }
 
 button.addEventListener('click', convertValue)
